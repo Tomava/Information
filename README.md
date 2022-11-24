@@ -30,9 +30,9 @@ In this project I learned about asynchronous functions, working with JSON-files,
 
 ## [Ledivilkutin](https://github.com/Tomava/Ledivilkutin)
 
-This project came from a desire to automate creation of tedious code for an embedded electronic on one of the first courses in university. I also learned how multiple components, inputter and the main functionality, can work together.
+This project came from a desire to automate creation of tedious code for an embedded electronic on one of the first courses in university. 
 
-It taught about pysimplegui-library and making an undo-functionality even though it could be handled much better and not with dictionaries.
+It taught about pysimplegui-library and making an undo-functionality even though it could be handled much better and not with dictionaries. I also learned how multiple components, inputter and the main functionality, can work together.
 
 ## [Pairs](https://github.com/Tomava/Pairs_GUI)
 
