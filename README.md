@@ -16,7 +16,7 @@ This project taught me more about APIs and automatic web page scaping as well as
 
 This was originally a self-selected and designed school project, but I made quite a few improvements after finishing the course. The structure of the code could be made a bit clearer as some functions are multipurposed in somewhat confusin ways. 
 
-This project thought Tkinter.
+This project taught Tkinter.
 
 ## [TelegramBot](https://github.com/Tomava/CryptoTrackerBot)
 
