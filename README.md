@@ -10,7 +10,7 @@ In this project I used and learned about classes and class inheritance in Python
 
 ## [DailyNotifier](https://github.com/Tomava/DailyNotifier)
 
-This project taught me more about APIs and automatic web page scaping as well as some regular expression and HTML on the way. Also handling API-keys and using *.env* file to store them and not add them to version control. The project is nicely organized.
+This project taught me more about APIs and automatic web page scaping as well as some regular expression and HTML on the way. Also handling API-keys and using *.env* file to store them and not add them to version control. The project is nicely organized and easy to edit later on. Beautifulsoup-library could have been used instead of regex to read pages.
 
 ## [Minesweeper](https://github.com/Tomava/Minesweeper)
 
