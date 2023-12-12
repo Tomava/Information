@@ -2,7 +2,9 @@
 
 Some more information on the projects in my GitHub.
 
-All of the projects were created because I wanted to have some utility and wanted to learn programming by creating them by myself. 
+All of the projects were created because I wanted to have some utility and wanted to learn programming by creating them by myself.
+
+Lately I've been adding and updating the use of Docker on many of the projects.
 
 ## Python
 
