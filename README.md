@@ -42,9 +42,9 @@ It taught about pysimplegui-library and making an undo-functionality even though
 
 This project's goal was to monitor and visualize the temperature inside and outside. This was the first project where I used sensors in IoT. Although, the measuremenet were simple to take with a python library.
 
-The frontend part is still on very early steps, but the backend and data collection is fully implemented. The data is collected to CSV-files for easier manual viewing, but a database could be added later on.
+The frontend part is still on very early steps, but the backend and data collection is fully implemented. The data is collected to CSV-files for easier manual viewing for now but PostgreSQL database is implemented in a separate branch. I also experimented and implemented MQTT-protocol after learning about it theoretically which would move the backend-API tasks from the data collecting unit to a more powerful server.
 
-From this project, I learned some things about Flask library and I hope to learn some more about how to graph data on the frontend.
+From this project, I learned multiple things about Flask, MQTT and databases, and I hope to learn some more about how to graph data on the frontend.
 
 ## C++
 
