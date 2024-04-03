@@ -21,7 +21,7 @@ It taught about pysimplegui-library and making an undo-functionality even though
 
 ### [Minesweeper](https://github.com/Tomava/Minesweeper) (2020 - 2021)
 
-`Python, Tkinter`
+`Python | Tkinter`
 
 This was originally a self-selected and designed school project, but I made quite a few improvements after finishing the course. The structure of the code could be made a bit clearer as some functions are multipurposed in somewhat confusin ways. 
 
@@ -48,7 +48,7 @@ In this project I learned about asynchronous functions, working with JSON-files,
 
 ### [TelegramBot](https://github.com/Tomava/CryptoTrackerBot) (2021 -)
 
-`Python, Matplotlib`
+`Python | Matplotlib`
 
 This project taught about usage of APIs and requests, and I utilized Matplotlib-library that I had used quite a lot at the time to create different graphs.
 
@@ -71,7 +71,7 @@ In this project I used and learned about classes and class inheritance in Python
 
 ### [Full stack open 2022](https://github.com/Tomava/FullStackOpen) (2022 - 2023)
 
-`JavaScript / TypeScript / MongoDB, React / Node.js`
+`JavaScript / TypeScript / MongoDB | React / Node.js`
 
 When I started this course I had no experience with JavaScript but I gathered a lot of knowledge about it during the course. React, Node.js and MongoDB became familiar as well. These skills were then used in a university course in a real software project where I mostly used Node.js and also learned TypeScript.
 
@@ -80,7 +80,7 @@ When I started this course I had no experience with JavaScript but I gathered a 
 
 ### [TemperatureMonitor](https://github.com/Tomava/TemperatureMonitor) (2023 -)
 
-`Python / PostgreSQL, Flask / MQTT`
+`Python / PostgreSQL | Flask / MQTT`
 
 This project's goal was to monitor and visualize the temperature inside and outside. This was the first project where I used sensors in IoT. Although, the measurement were simple to take with a Python library.
 
@@ -93,7 +93,7 @@ From this project, I learned multiple things about Flask, MQTT and databases, an
 
 ### [SecureNotes](https://github.com/Tomava/SecureNotes) (2024)
 
-`Python / TypeScript / PostgreSQL, Flask / Next.js`
+`Python / TypeScript / PostgreSQL | Flask / Next.js`
 
 This is an ongoing project with a freely chosen topic for a course where the focus is on secure programming principles.
 
