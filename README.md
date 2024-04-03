@@ -46,6 +46,16 @@ The frontend part is still on very early steps, but the backend and data collect
 
 From this project, I learned multiple things about Flask, MQTT and databases, and I hope to learn some more about how to graph data on the frontend.
 
+### [SecureNotes](https://github.com/Tomava/SecureNotes)
+
+This is an ongoing project with a freely chosen topic for a course where the focus is on secure programming principles.
+
+For backend, I chose to implement it in Python and I chose Flask as I has some experience with it and wanted to deepen my knowledge. The database is implemented with PostgreSQL. For frontend, I chose TypeScript with Next.js as I was familiar with them. All the components are used withing Docker containers.
+
+I wanted to focus my effort on secure and private note taking. I implemented secure sign up and logging in flows, where encryption keys and login hash are securely derived from the user password with different salts in the frontend. The point was to have an end-to-end encrypted solution where the backend is never able to decrypt the notes. Also TOTP is implemented. Although the implementations are secure, the usability is somewhat lacking in some parts. There are also some things I’m not quite satisfied with, such as how the navigation and data fetching is handled in the frontend and the structure of some API endpoints. Also the visual look is just bad with barely any CSS.
+
+I learned and deepened my knowledge about the practical implementation of, for example, secure logins, sessions, encryption, SQL statements, data validation and CSRF.
+
 ## C++
 
 ### [Pairs](https://github.com/Tomava/Pairs_GUI)
