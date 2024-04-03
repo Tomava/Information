@@ -93,7 +93,7 @@ From this project, I learned multiple things about Flask, MQTT and databases, an
 
 ### [SecureNotes](https://github.com/Tomava/SecureNotes) (2024)
 
-`Python / Typescript / PostgreSQL, Flask / Next.js`
+`Python / TypeScript / PostgreSQL, Flask / Next.js`
 
 This is an ongoing project with a freely chosen topic for a course where the focus is on secure programming principles.
 
