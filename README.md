@@ -95,7 +95,7 @@ From this project, I learned multiple things about Flask, MQTT and databases, an
 
 `Python / TypeScript / PostgreSQL | Flask / Next.js`
 
-This is an ongoing project with a freely chosen topic for a course where the focus is on secure programming principles.
+This is a project with a freely chosen topic for a course where the focus is on secure programming principles.
 
 For backend, I chose to implement it in Python and I chose Flask as I has some experience with it and wanted to deepen my knowledge. The database is implemented with PostgreSQL. For frontend, I chose TypeScript with Next.js as I was familiar with them. All the components are used withing Docker containers.
 
