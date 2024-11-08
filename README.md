@@ -4,11 +4,9 @@ Some more information on the projects in my GitHub.
 
 All of the projects were created because I wanted to have some utility and wanted to learn by creating them by myself.
 
-Lately I've been adding and updating the use of Docker on many of the projects.
-
-Below, the projects are ordered based on when they were started and active years marked in parentheses.
-
 # Projects
+
+This is a non-comprehensive list of my projects. The projects are ordered based on when they were started and active years marked in parentheses. This list only contains some of the bigger projects and of which I have something noteworthy to comment about :)
 
 ## 2020
 
@@ -107,8 +105,8 @@ I learned and deepened my knowledge about the practical implementation of, for e
 
 ### Infra (2024 -)
 
-I've been focusing a lot in my server infrastructure with Ansible and other tools in a private repos.
+`Ansible / Docker / Bash`
 
-I've wanted to move away from my manually created documentation, which would require manually running things, to an automated method where in the end everything could be recreated by scripts. This has been a gradual task with small (and sometimes bigger) additions at a given time.
+As I have a server running different services and scripts and other project devices to maintain and setup, I've been focusing a lot in the infrastructure with Ansible and other tools in a private repo. I've wanted to move away from my manually created documentation, which would require manually running things, to an automated method where in the end everything could be recreated by scripts. This has been a gradual task with small (and sometimes bigger) additions at a given time.
 
 With this task I've been learning a lot about Ansible as well as thinking about how to setup things in a way that makes automation of different tasks easier.
