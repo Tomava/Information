@@ -8,6 +8,8 @@ Lately I've been adding and updating the use of Docker on many of the projects.
 
 Below, the projects are ordered based on when they were started and active years marked in parentheses.
 
+# Projects
+
 ## 2020
 
 ### [Ledivilkutin](https://github.com/Tomava/Ledivilkutin) (2020)
@@ -102,3 +104,11 @@ For backend, I chose to implement it in Python and I chose Flask as I has some e
 I wanted to focus my effort on secure and private note taking. I implemented secure sign up and logging in flows, where encryption keys and login hash are securely derived from the user password with different salts in the frontend. The point was to have an end-to-end encrypted solution where the backend is never able to decrypt the notes. Also TOTP is implemented. Although the implementations are secure, the usability is somewhat lacking in some parts. There are also some things I’m not quite satisfied with, such as how the navigation and data fetching is handled in the frontend and the structure of some API endpoints. Also the visual look is just bad with barely any CSS.
 
 I learned and deepened my knowledge about the practical implementation of, for example, secure logins, sessions, encryption, SQL statements, data validation and CSRF.
+
+### Infra (2024 -)
+
+I've been focusing a lot in my server infrastructure with Ansible and other tools in a private repos.
+
+I've wanted to move away from my manually created documentation, which would require manually running things, to an automated method where in the end everything could be recreated by scripts. This has been a gradual task with small (and sometimes bigger) additions at a given time.
+
+With this task I've been learning a lot about Ansible as well as thinking about how to setup things in a way that makes automation of different tasks easier.
